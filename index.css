@@ -1,9 +1,12 @@
 body {
     width: 100%;
+    background-color: black;
 }
 
 .container {
     width: 100%;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
 }
